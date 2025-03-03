@@ -22,3 +22,4 @@ while guess_counter < chances:
 
     elif my_guess < number_to_guess:
         print('Your guess is lesser')
+        # this us comments for this code
